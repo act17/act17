@@ -1,2 +1,2 @@
-I'm Aiden. I came here to upload code I've made.
-You can contact me at aiden.taylor@protonmail.com
+This account has now been rendered inactive. Most software uploaded here will now be mirrored on GitLab.
+https://gitlab.com/actsoftware
